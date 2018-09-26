@@ -1,0 +1,38 @@
+{
+    user(login:Torvalds)
+    {
+        followers(first: 100)
+        {
+            totalCount
+            edges
+            {
+                cursor
+                node
+                {
+                    name
+                    id
+                }
+            }
+            nodes
+            {
+                name
+                id
+            }
+        }
+        avatarUrl(size:100)
+        bio
+        bioHTML
+        company
+        companyHTML
+        createdAt
+        databaseId
+        email
+        id
+        location
+        login
+        name
+        resourcePath
+        url
+        websiteUrl
+    }
+}

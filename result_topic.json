@@ -1,0 +1,33 @@
+{
+    "data": {
+        "topic": {
+            "name": "python",
+            "relatedTopics": [
+                {
+                    "name": "python-2"
+                },
+                {
+                    "name": "python-3"
+                },
+                {
+                    "name": "python-3-5"
+                },
+                {
+                    "name": "python-3-6"
+                },
+                {
+                    "name": "python2"
+                },
+                {
+                    "name": "python27"
+                },
+                {
+                    "name": "python3"
+                },
+                {
+                    "name": "language"
+                }
+            ]
+        }
+    }
+}

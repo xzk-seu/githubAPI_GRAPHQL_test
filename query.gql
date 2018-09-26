@@ -1,0 +1,23 @@
+{
+    user(login:Torvalds)
+    {
+        followers(after: "Y3Vyc29yOnYyOpKoMHg3YjI0ZmbOAA-ALw==", first: 100)
+        {
+            totalCount
+            edges
+            {
+                cursor
+                node
+                {
+                    name
+                    id
+                }
+            }
+            nodes
+            {
+                name
+                id
+            }
+        }
+    }
+}

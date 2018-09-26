@@ -1,0 +1,10 @@
+{
+    topic(name:python)
+    {
+        name
+        relatedTopics
+        {
+            name
+        }
+    }
+}
